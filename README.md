@@ -1,4 +1,4 @@
-In this folder you will find the Mathematica, R and MAXIMA versions for the modules described in the book "Finite Form Representations for Meijer G and Fox H Functions -- Applied to Multivariate Likelihood Ratio Tests Using Mathematica®, MAXIMA and R".
+In this folder you will find the Mathematica, R and MAXIMA versions for the modules described in the book "Finite Form Representations for Meijer G and Fox H Functions -- Applied to Multivariate Likelihood Ratio Tests Using Mathematica®, MAXIMA and R" (https://link.springer.com/book/10.1007/978-3-030-28790-0).
 
 The Mathematica notebook EGIG.nb has all the modules described in that book, while the R workspace EGIG.RData has most of the corresponding R functions, plus a few more described in the pdf file "SASA24-Carlos-Coelho-Workshop.pdf" (where several examples of use may be found). In the file EGIG.wxmx may be found a MAXIMA workspace with the MAXIMA version of many of the modules described in the book.
 
